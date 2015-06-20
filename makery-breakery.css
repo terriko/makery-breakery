@@ -1,0 +1,29 @@
+/* Move down content because we have a fixed navbar that is 100px tall */
+.menu {
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+.circle {
+	width: 50px;
+	height: 50px;
+   padding: 8px 12px;
+   font-size: 25px;
+   line-height: 1.33;
+   border-radius: 25px;
+}
+.blue {
+	background-color: #337ab7;
+   color: #fff;
+}
+.green {
+	background-color: #5cb85c;
+   color: #fff;
+}
+.orange {
+	background-color: #FFCC66;
+   color: #fff;
+}
+}
+.center {
+	text-align: center;
+}
